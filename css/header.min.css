@@ -1,0 +1,12 @@
+body {
+    font-family: 'RobotoRegular', sans-serif;
+    font-size: 16px;
+    line-height: 1.6;
+    position: relative;
+    overflow-x: hidden; 
+    min-width: 320px;
+}
+
+.hidden {
+    display: none;
+}

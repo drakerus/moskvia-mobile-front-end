@@ -1,0 +1,39 @@
+@font-face {
+    font-family: 'Ubuntu';
+    font-weight: 400;
+    font-style: normal;
+
+    src: url('../fonts/UbuntuRegular/Ubuntu.eot?#iefix') format('embedded-opentype'), url('../fonts/UbuntuRegular/Ubuntu.woff') format('woff'), url('../fonts/UbuntuRegular/Ubuntu.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Ubuntu';
+    font-weight: 400;
+    font-style: italic;
+
+    src: url('../fonts/UbuntuItalic/Ubuntu-Italic.eot?#iefix') format('embedded-opentype'), url('../fonts/UbuntuItalic/Ubuntu-Italic.woff') format('woff'), url('../fonts/UbuntuItalic/Ubuntu-Italic.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Ubuntu';
+    font-weight: 600;
+    font-style: normal;
+
+    src: url('../fonts/UbuntuMedium/Ubuntu-Medium.eot?#iefix') format('embedded-opentype'), url('../fonts/UbuntuMedium/Ubuntu-Medium.woff') format('woff'), url('../fonts/UbuntuMedium/Ubuntu-Medium.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Ubuntu';
+    font-weight: 300;
+    font-style: normal;
+
+    src: url('../fonts/UbuntuLight/Ubuntu-Light.eot?#iefix') format('embedded-opentype'), url('../fonts/UbuntuLight/Ubuntu-Light.woff') format('woff'), url('../fonts/UbuntuLight/Ubuntu-Light.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Ubuntu';
+    font-weight: 700;
+    font-style: normal;
+
+    src: url('../fonts/UbuntuBold/Ubuntu-Bold.eot?#iefix') format('embedded-opentype'), url('../fonts/UbuntuBold/Ubuntu-Bold.woff') format('woff'), url('../fonts/UbuntuBold/Ubuntu-Bold.ttf') format('truetype');
+}
